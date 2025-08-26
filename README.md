@@ -21,15 +21,19 @@ Este repositório busca refletir a filosofia de **soluções simples, porém efi
 ---
 
 ## 📂 Estrutura
+
 A organização dos projetos segue uma lógica simples:
 
 Projetos_Elos/
-
 │
 ├── 📁 SQL # Scripts de consultas e rotinas em banco de dados
+
 ├── 📁 PL_SQL # Procedures, functions e packages
+
 ├── 📁 Automacao # Jobs e rotinas de automação
+
 ├── 📁 Documentacao # Guias, manuais e anotações de processos
+
 └── README.md # Arquivo principal de descrição
 
 ---
@@ -48,27 +52,39 @@ Cada pasta contém scripts comentados para fácil entendimento.
 ---
 
 📖 Boas Práticas
+
 ✅ Sempre documentar suas alterações
+
 ✅ Usar nomes significativos para scripts e procedures
+
 ✅ Testar em ambiente de homologação antes de aplicar em produção
+
 ✅ Manter consistência na formatação de código
 
 ---
 
 🤝 Contribuições
+
 Contribuições são bem-vindas!
+
 Para colaborar:
+
     1. Faça um fork do projeto
+    
     2. Crie uma nova branch
+    
     3. Submeta um pull request
 
 ---
 
 🛡️ Licença
+
 Este repositório está sob a licença MIT.
+
 Você pode usar, copiar, modificar e distribuir livremente, desde que mantenha os créditos.
 
 ---
 
 ✨ Inspiração
+
 Este projeto nasce da necessidade de organizar e compartilhar conhecimento técnico aplicado no contexto da Elos Inpasa, fortalecendo a visão de que soluções simples podem gerar grandes resultados.
