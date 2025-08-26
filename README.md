@@ -82,6 +82,7 @@ Para colaborar:
 🛡️ Licença
 
 Este repositório está sob a licença MIT.
+
 Você pode usar, copiar, modificar e distribuir livremente, desde que mantenha os créditos.
 
 ---
