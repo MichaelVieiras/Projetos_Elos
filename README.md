@@ -25,7 +25,9 @@ Este repositório busca refletir a filosofia de **soluções simples, porém efi
 A organização dos projetos segue uma lógica simples:
 
 Projetos_Elos/
+
 │
+
 ├── 📁 SQL # Scripts de consultas e rotinas em banco de dados
 
 ├── 📁 PL_SQL # Procedures, functions e packages
@@ -80,7 +82,6 @@ Para colaborar:
 🛡️ Licença
 
 Este repositório está sob a licença MIT.
-
 Você pode usar, copiar, modificar e distribuir livremente, desde que mantenha os créditos.
 
 ---
