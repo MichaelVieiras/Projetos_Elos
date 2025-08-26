@@ -53,7 +53,7 @@ Cada pasta contém scripts comentados para fácil entendimento.
 
 ---
 
-📖 Boas Práticas
+## 📖 Boas Práticas
 
 ✅ Sempre documentar suas alterações
 
@@ -65,7 +65,7 @@ Cada pasta contém scripts comentados para fácil entendimento.
 
 ---
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas!
 
@@ -79,7 +79,7 @@ Para colaborar:
 
 ---
 
-🛡️ Licença
+## 🛡️ Licença
 
 Este repositório está sob a licença MIT.
 
@@ -87,6 +87,6 @@ Você pode usar, copiar, modificar e distribuir livremente, desde que mantenha o
 
 ---
 
-✨ Inspiração
+## ✨ Inspiração
 
 Este projeto nasce da necessidade de organizar e compartilhar conhecimento técnico aplicado no contexto da Elos Inpasa, fortalecendo a visão de que soluções simples podem gerar grandes resultados.
